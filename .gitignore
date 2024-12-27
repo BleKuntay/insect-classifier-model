@@ -1,0 +1,8 @@
+dataset/
+models/
+output/
+
+!scripts/
+!scripts/**
+
+*.pt
